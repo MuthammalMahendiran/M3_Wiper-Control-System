@@ -1,29 +1,26 @@
 
-# WIPER CONTROL SYSTEM
-## OBJECTIVE
 
-   The main objective of this project is through ARM microcontroller to design a wiper control system. The project mainly insists on controlling the motion of wiper 
-   based on frequency and time period (in seconds).
 
-## 4W’s and 1H:
+# REQUIREMENTS
 
-### Who
-- With view of sensing the obstacle wiper is control system is being user by all heavy vehicle/automobile user's (like car, truck, train, chopper).It can help people driving vehicles in terrain, roads, hill station and highways.
+## 4'WS and 1H:
 
-### What
+#### Who
+ With view of sensing the obstacle wiper is control system is being user by all heavy vehicle/automobile user's (like car, truck, train, chopper).It can help people driving vehicles in terrain, roads, hill station and highways.
 
-- 3 LEDS are used in the wiper system.
+#### What
 
-### When
+ 3 LEDS are used in the wiper system.
 
-- It is used when the key ignition is turned ON/OFF where three LED's are turned ON/OFF depending the frequency.
+#### When
 
-### Where
+ It is used when the key ignition is turned ON/OFF where three LED's are turned ON/OFF depending the frequency.
 
-- IT is used in heavy vehicle/automobile
-### How
+#### Where
 
-- IT  can be achieved throught the analog to digital convertor, LEDS, timer's and so on..
+IT is used in heavy vehicle/automobile
+#### How
+ IT  can be achieved throught the analog to digital convertor, LEDS, timer's and so on..
 
 
 ## SWOT ANALYSIS:
