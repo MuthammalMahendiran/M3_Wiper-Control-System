@@ -7,6 +7,10 @@ Traditional windshield wiper speed constantly varies according to time and vehic
 
 The aim of the project is to design a  wiper control system which automatically controls the wiper according to the rain fall of water.In large cities and industries where supply and distribution tanks are at a largedistance from water control station, it is very difficult situation to monitor the water.
 
+## OBJECTIVE
+
+   The main objective of this project is through ARM microcontroller to design a wiper control system. The project mainly insists on controlling the motion of wiper 
+   based on frequency and time period (in seconds).
 
 ![wiper](https://user-images.githubusercontent.com/101463471/167909762-f1cebc39-2b23-4052-9f8e-4462c994e1bb.jpg)
 
