@@ -1,0 +1,7 @@
+# WIPER CONTROL SYSTEM
+## INTRODUCTION
+over the past two decades, the automotive industry has aggressively researched ways to exploit modern computing and electronic advances in the development of safety, reliability, and entertainment technologies for vehicles. With drivers exposed to an ever increasing number of distractions, automatic rain-sensing wiper systems become an even more appealing feature, as they work to minimize the time the driver must take his/her hands off the wheel. Most traditional systems offer intermittent as well as variable speed operation. The traditional wiper system however requires driver constant attention in adjusting the wiper speed. Traditional windshield wiper speed constantly varies according to time and vehicle’s speed. Because the manual adjustment of the wiper distracts driver's attention, which may be a direct cause accidents. This is review paper for automatic wiper in various method and also explain the basic skeleton for adjust speed of wiper automatically cording to the amount of water on the windshield and in addition with also in advance removal of moisture inside the car while raining.
+
+
+The aim of the project is to design a  wiper control system which automatically controls the wiper according to the rain fall of water.In large cities and industries where supply and distribution tanks are at a largedistance from water control station, it is very difficult situation to monitor the water.
+
