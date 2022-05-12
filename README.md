@@ -9,3 +9,4 @@
 |5_Report|Contains overall details of project|
 |6_Output   |Contains output images|
 
+![Car-Wipers](https://user-images.githubusercontent.com/101463471/168142837-1e6efa31-12ea-44ea-bea9-31356f6c87aa.jpg)
