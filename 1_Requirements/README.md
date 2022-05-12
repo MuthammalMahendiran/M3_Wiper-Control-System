@@ -30,20 +30,20 @@ b) Higher demand for luxury features
 
 c) Automatic wiper control system
 
-d)
+d) Less power consumption
 
-e)
+e) Operating level is easy 
 	
 ### Weakness:
-a)
+a) May not be working at inclement weather
 
-b)
+b) May not detect objects
 
-c)
+c) It may also malfunction if components fail
 
-d)
+d) Sometimes not working properly
 
-e)
+e) High cost
 
 
 ### Opportunities:
