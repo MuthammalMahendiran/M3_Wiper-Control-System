@@ -11,7 +11,9 @@
 ## COMPONENTS USED IN PROJECT
 
 - STM32F407G-DISC1
-
+   
+   
+![stm32f4_discovery-550x550h](https://user-images.githubusercontent.com/101463471/168055114-fb6720ea-d64a-4d8a-bcfe-251745618ffc.jpg)
 
 ## 4'WS and 1H:
 
