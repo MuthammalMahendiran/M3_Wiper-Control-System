@@ -1,5 +1,5 @@
 
-# WIPER CONTROL SYSTEM
+# WIPER-CONTROL-SYSTEM
 ## INTRODUCTION
 over the past two decades, the automotive industry has aggressively researched ways to exploit modern computing and electronic advances in the development of safety, reliability, and entertainment technologies for vehicles. With drivers exposed to an ever increasing number of distractions, automatic rain-sensing wiper systems become an even more appealing feature, as they work to minimize the time the driver must take his/her hands off the wheel. Most traditional systems offer intermittent as well as variable speed operation. The traditional wiper system however requires driver constant attention in adjusting the wiper speed.
 
@@ -17,14 +17,14 @@ The aim of the project is to design a  wiper control system which automatically 
 
 ![wiper](https://user-images.githubusercontent.com/101463471/167909762-f1cebc39-2b23-4052-9f8e-4462c994e1bb.jpg)
 
-# REQUIREMENTS
+## REQUIREMENTS
 
-## SOFTWARE REQUIRMENTS:
+### SOFTWARE REQUIRMENTS:
 - STM32CUBEIDE
 - CYGWIN
 - QEMU
 
-## COMPONENTS USED IN PROJECT:
+### COMPONENTS USED IN PROJECT:
 
 - STM32F407G-DISC1
 
@@ -35,7 +35,7 @@ The STM32F407G-DISC1 is a Discovery Kit allows users to easily develop applicati
    
 ![stm32f4_discovery-550x550h](https://user-images.githubusercontent.com/101463471/168055114-fb6720ea-d64a-4d8a-bcfe-251745618ffc.jpg)
 
-## 4'WS and 1H:
+### 4'WS and 1H:
 
 #### Who
 All automobiles have wiper system and  The drive moves the two wiper arms at a certain angle across the windshield, providing a clear view for the driver and passenger while travelling.
@@ -94,7 +94,7 @@ b) Due to so much ice or snow on  windshield may cause the  wipers to get jammed
 c) Accident may occur due to fault in wiper system.
 
 
-## HIGH LEVEL REQUIREMENTS:
+### HIGH LEVEL REQUIREMENTS:
 
 |RID       |DESCRIPTION	       |STATUS |
 |----------|-------------------|-------|
@@ -106,7 +106,7 @@ c) Accident may occur due to fault in wiper system.
 |HLR6      |HARDDISK	       |IMPLEMENTED|
 |HLR7      |RAM 4GB            |IMPLEMENTED|
 
-## LOW LEVEL REQUIREMENTS:
+### LOW LEVEL REQUIREMENTS:
 
 |RID         |DESCRIPTION	 |STATUS|
 |------------|------------------|-------|
