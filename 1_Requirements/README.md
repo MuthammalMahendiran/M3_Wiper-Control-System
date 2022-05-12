@@ -6,20 +6,20 @@
 ## 4'WS and 1H:
 
 #### Who
-  All automobiles have wiper system and  The drive moves the two wiper arms at a certain angle across the windshield, providing a clear view for the driver and passenger while travelling.
+All automobiles have wiper system and  The drive moves the two wiper arms at a certain angle across the windshield, providing a clear view for the driver and passenger while travelling.
  
 #### What
-  The main purpose of the wiper system is to clean the windscreen sufficiently to provide suitable visibility at all times. In this project three LEDs are used to control the system.
+The main purpose of the wiper system is to clean the windscreen sufficiently to provide suitable visibility at all times. In this project three LEDs are used to control the system.
 
 
 #### When
-    Wipers are a small part of  any automobiles like cars,trains,truck and so on but they have a big impact on  driving and overall safety. They remove rain, snow, dirt, pollen, frost and other debris quickly. In this project when ignition system is turn on or off where the three LEDs turn on or off depending upon the frequency.
+Wipers are a small part of  any automobiles like cars,trains,truck and so on but they have a big impact on  driving and overall safety. They remove rain, snow, dirt, pollen, frost and other debris quickly. In this project when ignition system is turn on or off where the three LEDs turn on or off depending upon the frequency.
     
 #### Where
-      Wipers system are used in automobiles.
+Wipers system are used in automobiles.
 
 #### How
-  This system has been  done by LED and Timer. 
+This system has been  done by LED and Timer. 
 
 ## SWOT ANALYSIS:
 
