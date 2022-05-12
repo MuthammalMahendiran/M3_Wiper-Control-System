@@ -3,6 +3,16 @@
 
 # REQUIREMENTS
 
+## SOFTWARE REQUIRMENTS:
+- STM32CUBEIDE
+- CYGWIN
+- QEMU
+
+## COMPONENTS USED IN PROJECT
+
+- STM32F407G-DISC1
+
+
 ## 4'WS and 1H:
 
 #### Who
@@ -48,26 +58,19 @@ e) High cost
 
 ### Opportunities:
 
-a)
+a) The wiper serves to clean the windshield of the any automobile  at the front and rear. Wiper works by removing oil, dust, rainwater, and dirt that get stuck to the windshield.
 
-b)
+b) Wipers detect moisture on the windshield and activate the wipers to help increase driver visibility.
 
-c)
-
-d)
-
-e)
+c) Improve safety by decressing driver distraction.
 
 ### Threats:
-a)
+a) Time interval may vary thereby it cause some problem on  wiper system.
 
-b)
+b) Due to so much ice or snow on  windshield may cause the  wipers to get jammed and cause circuit overloading.
 
-c)
+c) Accident may occur due to fault in wiper system.
 
-d)
-
-e)
 
 ## HIGH LEVEL REQUIREMENTS:
 
