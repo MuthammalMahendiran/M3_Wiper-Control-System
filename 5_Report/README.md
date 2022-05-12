@@ -116,5 +116,16 @@ c) Accident may occur due to fault in wiper system.
 | LLR4 | ORANGE LED FREQUENCY 8Hz | IMPLEMENTED |
 | LLR5 | RED LED OFF    |  IMPLEMENTED|
 
+## BLOCK DIAGRAM
+![Block_Diagram](https://user-images.githubusercontent.com/101463471/168140083-7d395fdd-9aba-4c25-a874-b89045f6eace.PNG)
+## FLOW CHART
+![Flow_Chart](https://user-images.githubusercontent.com/101463471/168140090-364962c4-b952-44e1-8eaa-5d75ad9e93c8.PNG)
+## MECHANICAL DIAGRAM
+![Mechanical_Diagram](https://user-images.githubusercontent.com/101463471/168140191-af343067-c2df-4eb6-85ad-64756f7aff62.PNG)
+## SCHEMATIC DIAGRAM
+![Schematic_Diagram](https://user-images.githubusercontent.com/101463471/168140099-3dc2aab5-0df3-4a95-b7d7-01cb5fcb0696.PNG)
+## STATE DIAGRAM
+![State_Diagram](https://user-images.githubusercontent.com/101463471/168140316-458d241d-fdc1-444b-b096-a0f445935398.PNG)
+
 
 
