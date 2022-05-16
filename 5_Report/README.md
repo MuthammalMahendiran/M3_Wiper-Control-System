@@ -16,6 +16,16 @@ The aim of the project is to design a  wiper control system which automatically 
    based on frequency and time period (in seconds).
 
 ![wiper](https://user-images.githubusercontent.com/101463471/167909762-f1cebc39-2b23-4052-9f8e-4462c994e1bb.jpg)
+## REFERENCES
+
+[1]  Shinichi KATO* Toshinori YAGI* “Development of a 
+Rain-Light Sensor”Technical Review 2008.
+
+[2] Wong Sai Hoong & Gilbert Thio”Design of A Moisture 
+Controller For Wiper” Paper reach report JASA |July 
+2006.
+
+[3] Joseph S. S., Jon H. B., John K. R., “Moisture sensor and windshield fog detector using an image sensor”, Google patents: US 6946639 B2, 2005. 
 
 # REQUIREMENTS
 
@@ -175,13 +185,3 @@ c) Accident may occur due to fault in wiper system.
 |6_Output   |Contains output images|
 
 
-## REFERENCES
-
-[1] Wong Sai Hoong & Gilbert Thio”Design of A Moisture 
-Controller For Wiper” Paper reach report JASA |July 
-2006.
-
-[2]  Shinichi KATO* Toshinori YAGI* “Development of a 
-Rain-Light Sensor”Technical Review 2008.
-
-[3] 
