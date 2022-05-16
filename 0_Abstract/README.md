@@ -18,11 +18,11 @@ The aim of the project is to design a  wiper control system which automatically 
 
 ## REFERENCES
 
-[1] Wong Sai Hoong & Gilbert Thio”Design of A Moisture 
+[1]  Shinichi KATO* Toshinori YAGI* “Development of a 
+Rain-Light Sensor”Technical Review 2008.
+
+[2] Wong Sai Hoong & Gilbert Thio”Design of A Moisture 
 Controller For Wiper” Paper reach report JASA |July 
 2006.
-
-[2]  Shinichi KATO* Toshinori YAGI* “Development of a 
-Rain-Light Sensor”Technical Review 2008.
 
 [3] Joseph S. S., Jon H. B., John K. R., “Moisture sensor and windshield fog detector using an image sensor”, Google patents: US 6946639 B2, 2005. 
