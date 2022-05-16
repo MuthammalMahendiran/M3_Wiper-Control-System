@@ -10,4 +10,4 @@
 #### ORANGE LED ON
 ![ORANGE LED ON](https://user-images.githubusercontent.com/101463471/168508697-3e4f13f1-1fb8-46f1-9415-61d974354651.PNG)
 #### RED LED OFF
-![RED LED OFF](https://user-images.githubusercontent.com/101463471/168508683-f0af8249-4ec6-42e4-ace0-db4dc6258210.PNG)
+![RED LED OFF](https://user-images.githubusercontent.com/101463471/168509190-e273afe4-e079-4c78-8ea2-b78491106150.PNG)
