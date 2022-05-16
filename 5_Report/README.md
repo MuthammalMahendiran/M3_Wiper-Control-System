@@ -174,3 +174,12 @@ c) Accident may occur due to fault in wiper system.
 |5_Report|Contains overall details of project|
 |6_Output   |Contains output images|
 
+
+## REFERENCES
+
+[1] Wong Sai Hoong & Gilbert Thio”Design of A Moisture 
+Controller For Wiper” Paper reach report JASA |July 
+2006.
+
+[2]  Shinichi KATO* Toshinori YAGI* “Development of a 
+Rain-Light Sensor”Technical Review 2008.
