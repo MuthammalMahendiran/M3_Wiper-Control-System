@@ -114,15 +114,15 @@ int main(void)
     /* USER CODE END WHILE */
 	  //MX_USB_HOST_Process();
 	      HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_14);//RED LED ON
-	      HAL_Delay(2);
+	      HAL_Delay(2000);
 	      HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_15);//BLUE LED ON
-	      HAL_Delay(1);
+	      HAL_Delay(1000);
 	      HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_12);//GREEN LED ON
-	      HAL_Delay(0.25);
+	      HAL_Delay(250);
 	      HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_13);//ORANGE LED ON
-	      HAL_Delay(0.125);
+	      HAL_Delay(125);
 	      HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_14);//RED LED ON
-	      HAL_Delay(2);
+	      HAL_Delay(2000);
 
     /* USER CODE BEGIN 3 */
   }
