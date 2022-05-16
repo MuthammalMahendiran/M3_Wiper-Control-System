@@ -184,6 +184,4 @@ Controller For Wiper” Paper reach report JASA |July
 [2]  Shinichi KATO* Toshinori YAGI* “Development of a 
 Rain-Light Sensor”Technical Review 2008.
 
- [3] Wong Sai Hoong & Gilbert Thio”Design of A Moisture 
-Controller For Wiper” Paper reach report JASA |July 
-2006.
+[3] 
